@@ -29,10 +29,4 @@
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
-### 联系
-
-[<img height="32" width="32" src="https://cdn.simpleicons.org/qq" />](mailto:1652709417@qq.com)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/github/gray" />](https://zhh2001.github.io/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/csdn" />](https://blog.csdn.net/qq_43133192)
-
 [![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&hide=contribs,prs&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)](https://github.com/zhh2001)
