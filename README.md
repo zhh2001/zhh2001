@@ -29,6 +29,6 @@
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
-[![学习笔记](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&repo=zhh2001.github.io)](https://github.com/zhh2001/zhh2001.github.io)
-
 [![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&hide=contribs,prs&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)](https://github.com/zhh2001)
+
+[![学习笔记](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&repo=zhh2001.github.io)](https://github.com/zhh2001/zhh2001.github.io)
