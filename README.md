@@ -13,15 +13,15 @@
 
 [![GoLang](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
-[![C](https://skillicons.dev/icons?i=c)](#)
-[![C++](https://skillicons.dev/icons?i=cpp)](#)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)  
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/)
-[![CSS](https://skillicons.dev/icons?i=css)](#)
+![CSS](https://skillicons.dev/icons?i=css)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://www.sass.hk/)
 [![Less](https://skillicons.dev/icons?i=less)](https://lesscss.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
@@ -31,4 +31,4 @@
 
 [![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&hide=contribs,prs&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)](https://github.com/zhh2001)
 
-<!-- [![学习笔记](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&repo=zhh2001.github.io)](https://github.com/zhh2001/zhh2001.github.io) -->
+[![学习笔记](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&repo=zhh2001.github.io)](https://github.com/zhh2001/zhh2001.github.io)
