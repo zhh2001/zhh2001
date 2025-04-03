@@ -35,8 +35,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&layout=compact&hide=html)](https://github.com/zhh2001)
 
+<!--
 ### 热门仓库
 
 [![学习笔记](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&repo=zhh2001.github.io)](https://github.com/zhh2001/zhh2001.github.io)
 
 [![P4 报头](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&repo=p4-protocol-headers)](https://github.com/zhh2001/p4-protocol-headers)
+-->
