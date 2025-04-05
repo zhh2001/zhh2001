@@ -31,6 +31,6 @@
 
 ### 仓库分析
 
-[![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&hide=contribs,prs&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)](#)
+[![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&hide=contribs,prs&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&layout=compact&hide=html)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&layout=compact&hide=html)]()
