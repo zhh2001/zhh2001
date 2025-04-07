@@ -12,14 +12,17 @@
 ### 技能
 
 [![GoLang](https://skillicons.dev/icons?i=go)](https://go.dev/)
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/JTC1/SC22/WG14/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://www.open-std.org/JTC1/SC22/WG21/)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)  
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![Redis](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
 [![HTML](https://skillicons.dev/icons?i=html)](https://html.com/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://www.sass.hk/)
@@ -28,6 +31,8 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![gRPC](https://go-skill-icons.vercel.app/api/icons?i=grpc)](https://grpc.io/)
+[![Gin](https://go-skill-icons.vercel.app/api/icons?i=gin)](https://gin-gonic.com/)
 
 ### 仓库分析
 
