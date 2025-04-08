@@ -31,6 +31,7 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![SQLAlchemy](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy)](https://www.sqlalchemy.org/)
 [![gRPC](https://go-skill-icons.vercel.app/api/icons?i=grpc)](https://grpc.io/)
 [![Gin](https://go-skill-icons.vercel.app/api/icons?i=gin)](https://gin-gonic.com/)
 
