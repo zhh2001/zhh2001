@@ -34,7 +34,8 @@
 [![SQLAlchemy](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy)](https://www.sqlalchemy.org/)
 [![Gin](https://go-skill-icons.vercel.app/api/icons?i=gin)](https://gin-gonic.com/)
 [![gRPC](https://go-skill-icons.vercel.app/api/icons?i=grpc)](https://grpc.io/)
-[![P4](https://go-skill-icons.vercel.app/api/icons?i=p4)](https://p4.org/)
+[![Overleaf](https://go-skill-icons.vercel.app/api/icons?i=overleaf)](https://www.overleaf.com/)  
+<!-- [![P4](https://go-skill-icons.vercel.app/api/icons?i=p4)](https://p4.org/) -->
 
 ### 仓库分析
 
