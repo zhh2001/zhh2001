@@ -12,9 +12,9 @@
 ### 技能
 
 [![GoLang](https://skillicons.dev/icons?i=go)](https://go.dev/)
+[![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/JTC1/SC22/WG14/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://www.open-std.org/JTC1/SC22/WG21/)
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
