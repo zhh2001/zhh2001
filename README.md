@@ -43,3 +43,5 @@
 [![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=vue-dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zhh2001)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=vue-dark&layout=compact&hide=html,css,scss)](https://github.com/zhh2001)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhh2001&theme=juicyfresh&rank=-?)](https://github.com/zhh2001)
