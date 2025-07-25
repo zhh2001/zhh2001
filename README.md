@@ -1,8 +1,8 @@
 我是张恒华
 ===
-[![Website](https://img.shields.io/badge/Personal%20Website-zhh2001.github.io-b860ff?logo=html5&logoColor=white&labelColor=red)](https://zhh2001.github.io)
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzhh2001&longCache=true)](https://github.com/zhh2001)
-[![Profile View Counter](https://komarev.com/ghpvc/?username=zhh2001)](https://zhh2001.github.io)
+[![Website](https://img.shields.io/badge/Personal%20Website-zhh2001.github.io-b860ff?logo=html5&logoColor=red&color=42b883)](https://zhh2001.github.io)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&color=42b883&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzhh2001&longCache=true)](https://github.com/zhh2001)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=zhh2001&base=1024&color=42b883&abbreviated=true)](https://zhh2001.github.io)
 
 全栈开发者
 ---
