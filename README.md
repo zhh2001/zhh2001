@@ -48,4 +48,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=vue-dark&layout=compact&hide=html,css,scss)](https://github.com/zhh2001)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhh2001&theme=github_dark)  
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhh2001&theme=github_dark) 
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhh2001&theme=github_dark&utcOffset=8)  
+![Top Langs By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhh2001&theme=github_dark&exclude=html) 
+![Top Langs By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhh2001&theme=github_dark&exclude=html)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhh2001&theme=juicyfresh&rank=-?)](https://github.com/zhh2001)
