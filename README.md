@@ -1,19 +1,19 @@
-我是张恒华
+Henghua Zhang
 ===
 [![Website](https://img.shields.io/badge/Personal%20Website-zhh2001.github.io-b860ff?logo=html5&logoColor=red&color=42b883)](https://zhh2001.github.io)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&color=42b883&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzhh2001&longCache=true)](https://github.com/zhh2001)
 [![Profile View Counter](https://komarev.com/ghpvc/?username=zhh2001&color=42b883&abbreviated=true)](https://github.com/zhh2001)
 
-全栈开发者
+Full-Stack Developer
 ---
-* 💻  要了解更多关于我的信息，请查看 [https://zhh2001.github.io](https://zhh2001.github.io)
-* ✉️  您可以通过 [1652709417@qq.com](mailto:1652709417@qq.com) 或者 [zhang@sues.edu.cn](mailto:zhang@sues.edu.cn) 与我联系
-* 🚀  目前在攻读电子信息硕士学位
-* 🧠  目前正在探索 SDN、PDP、P4、INT
-* ⚡  热爱 GoLang 开发
-* 🤝  愿意与有兴趣的项目进行合作
+* 💻 For more about me, visit [zhh2001.github.io](https://zhh2001.github.io)
+* ✉️ Reach me at [1652709417@qq.com](mailto:1652709417@qq.com) or [zhang@sues.edu.cn](mailto:zhang@sues.edu.cn)
+* 🚀 Currently pursuing a Master's degree in Electronic Information
+* 🧠 Researching SDN, PDP, P4, and INT technologies
+* ⚡ Passionate about developing with GoLang
+* 🤝 Open to collaborations on interesting and impactful projects
 
-### 技能
+### Skills
 
 [![GoLang](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
@@ -42,24 +42,7 @@
 [![SQLAlchemy](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy)](https://www.sqlalchemy.org/)
 [![P4](https://go-skill-icons.vercel.app/api/icons?i=p4)](https://p4.org/)
 
-### 仓库分析
-
-<!--
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/zhh2001">
-        <img src="https://github-readme-stats.vercel.app/api?username=zhh2001&theme=github_dark&hide=contribs,prs&card_width=440&count_private=true&show_icons=true&include_all_commits=true&line_height=30&custom_title=Zhang's%20GitHub%20Stats" alt="Zhang's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/zhh2001">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=github_dark&layout=compact&hide=html,css,scss" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
--->
+### Repository Stats
 
 [![Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=transparent&hide=contribs,prs&card_width=437&show_icons=true&include_all_commits=true&line_height=30&custom_title=Henghua%20Zhang's%20GitHub%20Stats)](https://github.com/zhh2001)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.7&count_weight=0.3)](https://github.com/zhh2001)  
