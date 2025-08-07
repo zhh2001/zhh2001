@@ -2,7 +2,7 @@
 ===
 [![Website](https://img.shields.io/badge/Personal%20Website-zhh2001.github.io-b860ff?logo=html5&logoColor=red&color=42b883)](https://zhh2001.github.io)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&color=42b883&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzhh2001&longCache=true)](https://github.com/zhh2001)
-[![Profile View Counter](https://komarev.com/ghpvc/?username=zhh2001&base=1000&color=42b883&abbreviated=true)](https://github.com/zhh2001)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=zhh2001&base=512&color=42b883&abbreviated=true)](https://github.com/zhh2001)
 
 全栈开发者
 ---
@@ -44,14 +44,16 @@
 
 ### 仓库分析
 
-[![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=vue-dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zhh2001)
+[![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=github_dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zhh2001)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=vue-dark&layout=compact&hide=html,css,scss)](https://github.com/zhh2001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=github_dark&layout=compact&hide=html,css,scss)](https://github.com/zhh2001)
 
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhh2001&theme=github_dark)  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhh2001&theme=github_dark) 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhh2001&theme=github_dark)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhh2001&theme=github_dark&utcOffset=8)  
-![Top Langs By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhh2001&theme=github_dark&exclude=html) 
+![Top Langs By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhh2001&theme=github_dark&exclude=html)
 ![Top Langs By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhh2001&theme=github_dark&exclude=html)
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhh2001&theme=juicyfresh&rank=-?)](https://github.com/zhh2001)
