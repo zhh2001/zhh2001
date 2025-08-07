@@ -61,8 +61,8 @@
 </table>
 -->
 
-[![Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=github_dark&hide=contribs,prs&card_width=437&show_icons=true&include_all_commits=true&line_height=30)](https://github.com/zhh2001)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=github_dark&hide=html,css,scss&layout=compact&size_weight=0.7&count_weight=0.3)](https://github.com/zhh2001)
+[![Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=transparent&hide=contribs,prs&card_width=437&show_icons=true&include_all_commits=true&line_height=30)](https://github.com/zhh2001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.7&count_weight=0.3)](https://github.com/zhh2001)
 
 <!--
 <div align="center">
