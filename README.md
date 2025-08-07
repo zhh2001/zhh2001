@@ -44,14 +44,26 @@
 
 ### 仓库分析
 
-| <a href="https://github.com/zhh2001"><img src="https://github-readme-stats.vercel.app/api?username=zhh2001&theme=github_dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true" alt="zhh2001's GitHub stats" /></a> | <a href="https://github.com/zhh2001"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=github_dark&layout=compact&hide=html,css,scss" alt="Top Langs" /></a> |
-| :-----------: | :-----------: |
-
-
 <!--
-[![zhh2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=github_dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zhh2001)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=github_dark&layout=compact&hide=html,css,scss)](https://github.com/zhh2001)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/zhh2001">
+        <img src="https://github-readme-stats.vercel.app/api?username=zhh2001&theme=github_dark&hide=contribs,prs&card_width=440&count_private=true&show_icons=true&include_all_commits=true&line_height=30&custom_title=Zhang's%20GitHub%20Stats" alt="Zhang's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/zhh2001">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=github_dark&layout=compact&hide=html,css,scss" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 -->
+
+
+[![Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=github_dark&hide=contribs,prs&card_width=437&count_private=true&show_icons=true&include_all_commits=true&line_height=30)](https://github.com/zhh2001)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=github_dark&layout=compact&hide=html,css,scss)](https://github.com/zhh2001)
 
 
 <!--
