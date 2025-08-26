@@ -55,3 +55,8 @@
 ![Top Langs By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhh2001&theme=github_dark&exclude=html)
 ![Top Langs By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhh2001&theme=github_dark&exclude=html)
 -->
+
+### 𝑻𝒐𝒑 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔
+
+[![P4Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=P4Sentinel)](https://github.com/zhh2001/P4Sentinel)
+[![zhh2001.github.io](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=zhh2001.github.io)](https://github.com/zhh2001/zhh2001.github.io)
