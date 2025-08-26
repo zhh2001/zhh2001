@@ -15,8 +15,8 @@
 
 ### 𝑺𝒌𝒊𝒍𝒍𝒔
 
-[![skills](https://skillicons.dev/icons?i=go,py,c,cpp,redis,mysql,sqlite,linux,bash,git,html,css,sass,less,js,ts,jquery,php,vue,latex&perline=10)]()  
-[![skills](https://go-skill-icons.vercel.app/api/icons?i=overleaf,jupyter,vitepress,gin,grpc,p4&perline=12&titles=true)]()
+[![skills](https://skillicons.dev/icons?i=go,py,c,cpp,redis,mysql,sqlite,linux,bash,git,html,css,sass,less,js,ts,jquery,php,vue,latex&perline=10)](#)  
+[![skills](https://go-skill-icons.vercel.app/api/icons?i=overleaf,jupyter,vitepress,gin,grpc,p4&perline=12&titles=true)](#)
 
 ### 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑺𝒕𝒂𝒕𝒔
 
