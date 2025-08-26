@@ -15,34 +15,12 @@
 
 ### 𝑺𝒌𝒊𝒍𝒍𝒔
 
-[![GoLang](https://skillicons.dev/icons?i=go)](https://go.dev/)
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org/)
-[![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/JTC1/SC22/WG14/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://www.open-std.org/JTC1/SC22/WG21/)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
-[![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://ubuntu.com/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-[![Redis](https://skillicons.dev/icons?i=git)](https://git-scm.com/)  
-[![HTML](https://skillicons.dev/icons?i=html)](https://html.com/)
-[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://www.sass.hk/)
-[![Less](https://skillicons.dev/icons?i=less)](https://lesscss.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
-[![Overleaf](https://go-skill-icons.vercel.app/api/icons?i=overleaf)](https://www.overleaf.com/)
-[![Gin](https://go-skill-icons.vercel.app/api/icons?i=gin)](https://gin-gonic.com/)
-[![gRPC](https://go-skill-icons.vercel.app/api/icons?i=grpc)](https://grpc.io/)
-[![P4](https://go-skill-icons.vercel.app/api/icons?i=p4)](https://p4.org/)
+[![skills](https://skillicons.dev/icons?i=go,py,c,cpp,redis,mysql,sqlite,linux,bash,git,html,css,sass,less,js,ts,jquery,php,vue,latex&perline=10)]()  
+[![skills](https://go-skill-icons.vercel.app/api/icons?i=overleaf,jupyter,vitepress,gin,grpc,p4&perline=12&titles=true)]()
 
 ### 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑺𝒕𝒂𝒕𝒔
 
-[![Zhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=transparent&hide=contribs,prs&card_width=437&show_icons=true&include_all_commits=true&line_height=30&custom_title=Henghua%20Zhang's%20GitHub%20Stats)](https://github.com/zhh2001)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhh2001&theme=transparent&hide=contribs,prs&card_width=437&show_icons=true&include_all_commits=true&line_height=30&custom_title=Henghua%20Zhang's%20GitHub%20Stats)](https://github.com/zhh2001)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.9&count_weight=0.1)](https://github.com/zhh2001)  
 [![trophy](https://trophygh.kolioaris.xyz/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5)](https://github.com/zhh2001)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5)](https://github.com/zhh2001) -->
@@ -57,5 +35,5 @@
 
 ### 𝑻𝒐𝒑 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔
 
-<a href="https://github.com/zhh2001/P4Sentinel"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=P4Sentinel" width="369" /></a>
-<a href="https://github.com/zhh2001/zhh2001.github.io"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=zhh2001.github.io" width="369" /></a>
+<a href="https://github.com/zhh2001/P4Sentinel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=P4Sentinel" width="369" /></a>
+<a href="https://github.com/zhh2001/zhh2001.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=zhh2001.github.io" width="369" /></a>
