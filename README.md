@@ -38,7 +38,6 @@
 [![Overleaf](https://go-skill-icons.vercel.app/api/icons?i=overleaf)](https://www.overleaf.com/)
 [![Gin](https://go-skill-icons.vercel.app/api/icons?i=gin)](https://gin-gonic.com/)
 [![gRPC](https://go-skill-icons.vercel.app/api/icons?i=grpc)](https://grpc.io/)
-[![SQLAlchemy](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy)](https://www.sqlalchemy.org/)  
 [![P4](https://go-skill-icons.vercel.app/api/icons?i=p4)](https://p4.org/)
 
 ### 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑺𝒕𝒂𝒕𝒔
