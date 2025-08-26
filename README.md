@@ -58,5 +58,5 @@
 
 ### 𝑻𝒐𝒑 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔
 
-[![P4Sentinel](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=P4Sentinel)](https://github.com/zhh2001/P4Sentinel)
-[![zhh2001.github.io](https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=zhh2001.github.io)](https://github.com/zhh2001/zhh2001.github.io)
+<a href="https://github.com/zhh2001/P4Sentinel"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=P4Sentinel" width="369" /></a>
+<a href="https://github.com/zhh2001/zhh2001.github.io"><img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=zhh2001.github.io" width="369" /></a>
