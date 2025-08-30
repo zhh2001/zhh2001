@@ -25,8 +25,9 @@
   <a href="https://github.com/zhh2001"><img align="middle" width="403" src="https://github-readme-stats.vercel.app/api?username=zhh2001&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true" alt="GitHub Stats" /></a>
   <a href="https://github.com/zhh2001"><img align="middle" width="277" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhh2001&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.9&count_weight=0.1" alt="Top Langs" /></a>
 </div>
-<a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a>
-<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5)](https://github.com/zhh2001) -->
+<a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a>
+<!-- <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a> -->
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhh2001&theme=github_dark)  
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhh2001&theme=github_dark)
