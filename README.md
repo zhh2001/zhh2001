@@ -21,8 +21,10 @@
 
 ### 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑺𝒕𝒂𝒕𝒔
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<div>
+  <a href="https://github.com/zhh2001"><img align="middle" width="403" src="./profile/stats.svg" alt="GitHub Stats" /></a>
+  <a href="https://github.com/zhh2001"><img align="middle" width="277" src="./profile/top-langs.svg" alt="Top Langs" /></a>
+</div>
 
 <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a>
 <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a> -->
@@ -33,11 +35,4 @@
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhh2001&theme=github_dark&utcOffset=8)  
 ![Top Langs By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhh2001&theme=github_dark&exclude=html)
 ![Top Langs By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhh2001&theme=github_dark&exclude=html)
--->
-
-<!--
-### 𝑻𝒐𝒑 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒊𝒆𝒔
-
-<a href="https://github.com/zhh2001/P4Sentinel"><img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=P4Sentinel" alt="P4Sentinel" /></a>
-<a href="https://github.com/zhh2001/zhh2001.github.io"><img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=zhh2001&theme=transparent&repo=zhh2001.github.io" alt="zhh2001.github.io" /></a>
 -->
