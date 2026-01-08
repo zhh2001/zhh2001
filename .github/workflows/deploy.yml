@@ -14,7 +14,7 @@ jobs:
           persist-credentials: false
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1.0.0
+        uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true
@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1.0.0
+        uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=transparent&hide=html,css,scss&layout=compact&size_weight=0.9&count_weight=0.1
