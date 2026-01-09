@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/badge/Personal%20website-zhh2001.github.io-b860ff?logo=html5&logoColor=red&color=42b883)](https://zhh2001.github.io)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+followers&color=42b883&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzhh2001&longCache=true)](https://github.com/zhh2001?tab=followers)
 [![Profile View Counter](https://komarev.com/ghpvc/?username=zhh2001&color=42b883&abbreviated=true)](https://github.com/zhh2001)
+[![Update README cards](https://github.com/zhh2001/zhh2001/actions/workflows/deploy.yml/badge.svg)](https://github.com/zhh2001/zhh2001/actions/workflows/deploy.yml)
 
 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 & 𝑺𝑫𝑵 𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓
 ---
