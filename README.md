@@ -19,7 +19,7 @@
 ### 𝑺𝒌𝒊𝒍𝒍𝒔
 
 <a href="https://github.com/zhh2001">
-  <img width="685" src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,redis,mysql,sqlite,debian,ubuntu,linux,bash,git,qt,html,css,sass,less,js,jquery,vue,gin,grpc,latex,overleaf,vitepress,p4&perline=13" alt="skills" />
+  <img width="685" src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,redis,mongodb,mysql,sqlite,grafana,linux,bash,git,qt,html,css,js,vue,gin,grpc,docker,k8s,jenkins,latex,overleaf,vitepress,p4&perline=13" alt="skills" />
 </a>
 
 ### 𝑹𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝑺𝒕𝒂𝒕𝒔
