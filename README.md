@@ -29,7 +29,7 @@
   <a href="https://github.com/zhh2001"><img align="middle" width="277" src="./profile/top-langs.svg" alt="Top Langs" /></a>
 </div>
 
-<a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a>
+<a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=-1" alt="Trophy" /></a>
 <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a> -->
 
 <!--
