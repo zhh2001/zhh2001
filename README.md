@@ -51,8 +51,18 @@
 ### Repository Stats
 
 <div>
-  <a href="https://github.com/zhh2001"><img align="top" width="403" src="./profile/stats.svg" alt="GitHub Stats" /></a>
-  <a href="https://github.com/zhh2001"><img align="top" width="277" src="./profile/top-langs.svg" alt="Top Langs" /></a>
+  <a href="https://github.com/zhh2001">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+      <img align="top" width="403" src="./profile/stats.svg" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/zhh2001">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+      <img align="top" width="277" src="./profile/top-langs.svg" alt="Top Langs" />
+    </picture>
+  </a>
 </div>
 
 <p align="center">
