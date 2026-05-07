@@ -1,12 +1,17 @@
-# Hi there, I'm Henghua Zhang 👋
-[![Website](https://img.shields.io/badge/Personal%20website-zhh2001.github.io-b860ff?style=for-the-badge&logo=vue.js)](https://zhh2001.github.io)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/zhh2001/zhh2001/deploy.yml?style=for-the-badge&label=Update%20README%20cards&logo=githubactions)
+<h1 align="center">Hi there, I'm Henghua Zhang 👋</h1>
 
-[![Profile View Counter](https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&style=for-the-badge)](https://github.com/zhh2001)
-[![GitHub User's stars](https://img.shields.io/github/stars/zhh2001?style=for-the-badge&logo=refinedgithub)](https://github.com/zhh2001)
-[![GitHub followers](https://img.shields.io/github/followers/zhh2001?style=for-the-badge&logo=refinedgithub)](https://github.com/zhh2001?tab=followers)
+<p align="center">
+  <a href="https://zhh2001.github.io"><img src="https://img.shields.io/badge/Personal%20website-zhh2001.github.io-b860ff?style=for-the-badge&logo=vue.js" alt="Website" /></a>
+</p>
 
-## Full-Stack Developer & SDN Researcher
+<p align="center">
+  <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&style=for-the-badge" alt="Profile View Counter" /></a>
+  <a href="https://github.com/zhh2001?tab=stars"><img src="https://img.shields.io/github/stars/zhh2001?style=for-the-badge&logo=refinedgithub" alt="GitHub User's stars" /></a>
+  <a href="https://github.com/zhh2001?tab=followers"><img src="https://img.shields.io/github/followers/zhh2001?style=for-the-badge&logo=refinedgithub" alt="GitHub followers" /></a>
+</p>
+
+<p align="center"><em>Full-Stack Developer &amp; SDN Researcher</em></p>
+
 * 💻 For more about me, visit [zhh2001.github.io](https://zhh2001.github.io)
 * ✉️ Reach me at [1652709417@qq.com](mailto:1652709417@qq.com) or [zhang@sues.edu.cn](mailto:zhang@sues.edu.cn)
 * 🚀 Currently pursuing a Master's degree in Electronic Information
