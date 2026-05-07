@@ -21,9 +21,32 @@
 
 ### Skills
 
-<a href="https://github.com/zhh2001">
-  <img width="685" src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,redis,mongodb,mysql,sqlite,grafana,linux,bash,git,qt,html,css,js,vue,gin,grpc,docker,k8s,jenkins,latex,overleaf,vitepress,p4&perline=13" alt="skills" />
-</a>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,js,p4" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend &amp; UI</strong></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vue,html,css,qt" alt="frontend-ui" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend &amp; RPC</strong></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=gin,grpc" alt="backend-rpc" /></td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb" alt="databases" /></td>
+  </tr>
+  <tr>
+    <td><strong>DevOps &amp; Infra</strong></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,k8s,jenkins,grafana" alt="devops-infra" /></td>
+  </tr>
+  <tr>
+    <td><strong>Docs &amp; Authoring</strong></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=latex,overleaf,vitepress" alt="docs-authoring" /></td>
+  </tr>
+</table>
 
 ### Repository Stats
 
