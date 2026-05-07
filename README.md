@@ -19,38 +19,38 @@
 * ⚡ Passionate about developing with GoLang
 * 🤝 Open to collaborations on interesting and impactful projects
 
-### Skills
+## Skills
 
 <table>
   <tr>
-    <td><strong>Languages</strong></td>
+    <td align="right"><strong>Languages</strong></td>
     <td><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,js,p4" alt="languages" /></td>
   </tr>
   <tr>
-    <td><strong>Frontend &amp; UI</strong></td>
+    <td align="right"><strong>Frontend &amp; UI</strong></td>
     <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vue,html,css,qt" alt="frontend-ui" /></td>
   </tr>
   <tr>
-    <td><strong>Backend &amp; RPC</strong></td>
+    <td align="right"><strong>Backend &amp; RPC</strong></td>
     <td><img src="https://go-skill-icons.vercel.app/api/icons?i=gin,grpc" alt="backend-rpc" /></td>
   </tr>
   <tr>
-    <td><strong>Databases</strong></td>
+    <td align="right"><strong>Databases</strong></td>
     <td><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb" alt="databases" /></td>
   </tr>
   <tr>
-    <td><strong>DevOps &amp; Infra</strong></td>
+    <td align="right"><strong>DevOps &amp; Infra</strong></td>
     <td><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,k8s,jenkins,grafana" alt="devops-infra" /></td>
   </tr>
   <tr>
-    <td><strong>Docs &amp; Authoring</strong></td>
+    <td align="right"><strong>Docs &amp; Authoring</strong></td>
     <td><img src="https://go-skill-icons.vercel.app/api/icons?i=latex,overleaf,vitepress" alt="docs-authoring" /></td>
   </tr>
 </table>
 
-### Repository Stats
+## Repository Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/zhh2001">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
@@ -65,8 +65,10 @@
   </a>
 </div>
 
-<a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a>
-<!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a> -->
+<p align="center">
+  <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a>
+  <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a> -->
+</p>
 
 <p align="center">
   <picture>
@@ -74,11 +76,3 @@
     <img src="./profile/snake.svg" alt="Henghua Zhang's contribution snake animation" />
   </picture>
 </p>
-
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhh2001&theme=github_dark)  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhh2001&theme=github_dark)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhh2001&theme=github_dark&utcOffset=8)  
-![Top Langs By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhh2001&theme=github_dark&exclude=html)
-![Top Langs By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhh2001&theme=github_dark&exclude=html)
--->
