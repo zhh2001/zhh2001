@@ -6,49 +6,44 @@
 
 <p align="center">
   <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&style=for-the-badge&color=b860ff" alt="Profile View Counter" /></a>
-  <a href="https://github.com/zhh2001?tab=stars"><img src="https://img.shields.io/github/stars/zhh2001?style=for-the-badge&logo=refinedgithub&color=b860ff&labelColor=2a2a2a" alt="GitHub User's stars" /></a>
+  <a href="https://github.com/zhh2001?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/zhh2001?style=for-the-badge&logo=refinedgithub&color=b860ff&labelColor=2a2a2a" alt="GitHub User's stars" /></a>
   <a href="https://github.com/zhh2001?tab=followers"><img src="https://img.shields.io/github/followers/zhh2001?style=for-the-badge&logo=refinedgithub&color=b860ff&labelColor=2a2a2a" alt="GitHub followers" /></a>
 </p>
 
 <p align="center"><em>Full-Stack Developer &amp; SDN Researcher</em></p>
 
-* 💻 For more about me, visit [zhh2001.github.io](https://zhh2001.github.io)
-* ✉️ Reach me at [1652709417@qq.com](mailto:1652709417@qq.com) or [zhang@sues.edu.cn](mailto:zhang@sues.edu.cn)
-* 🚀 Currently pursuing a Master's degree in Electronic Information
-* 🧠 Researching SDN, PDP, P4, and INT technologies
-* ⚡ Passionate about developing with GoLang
-* 🤝 Open to collaborations on interesting and impactful projects
+<p align="center">For more about me, visit <a href="https://zhh2001.github.io">zhh2001.github.io</a></p>
 
-## Skills
+<h2 align="center">Skills</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="right"><strong>Languages</strong></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,js,p4" alt="languages" /></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,js,p4" alt="languages" /></a></td>
   </tr>
   <tr>
     <td align="right"><strong>Frontend &amp; UI</strong></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vue,html,css,qt" alt="frontend-ui" /></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=vue,html,css,qt" alt="frontend-ui" /></a></td>
   </tr>
   <tr>
     <td align="right"><strong>Backend &amp; RPC</strong></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=gin,grpc" alt="backend-rpc" /></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=gin,grpc,flask" alt="backend-rpc" /></a></td>
   </tr>
   <tr>
     <td align="right"><strong>Databases</strong></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb" alt="databases" /></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb" alt="databases" /></a></td>
   </tr>
   <tr>
     <td align="right"><strong>DevOps &amp; Infra</strong></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,k8s,jenkins,grafana" alt="devops-infra" /></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,k8s,jenkins,grafana" alt="devops-infra" /></a></td>
   </tr>
   <tr>
     <td align="right"><strong>Docs &amp; Authoring</strong></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=latex,overleaf,vitepress" alt="docs-authoring" /></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=latex,overleaf,vitepress" alt="docs-authoring" /></td>
   </tr>
 </table>
 
-## Repository Stats
+<h2 align="center">Repository Stats</h2>
 
 <div align="center">
   <a href="https://github.com/zhh2001">
@@ -66,7 +61,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a>
+  <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=7&margin-w=4" alt="Trophy" /></a>
   <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a> -->
 </p>
 
