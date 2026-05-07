@@ -58,6 +58,13 @@
 <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a>
 <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a> -->
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <img src="./profile/snake.svg" alt="Henghua Zhang's contribution snake animation" />
+  </picture>
+</p>
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhh2001&theme=github_dark)  
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhh2001&theme=github_dark)
