@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Henghua Zhang 👋</h1>
 
 <p align="center">
-  <a href="https://zhh2001.github.io"><img src="https://img.shields.io/badge/Personal%20website-zhh2001.github.io-b860ff?style=for-the-badge&logo=vue.js" alt="Website" /></a>
+  <a href="https://zhh2001.github.io"><img src="https://img.shields.io/badge/Personal%20website-zhh2001.github.io-b860ff?style=for-the-badge&logo=vue.js&labelColor=2a2a2a" alt="Website" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&style=for-the-badge" alt="Profile View Counter" /></a>
-  <a href="https://github.com/zhh2001?tab=stars"><img src="https://img.shields.io/github/stars/zhh2001?style=for-the-badge&logo=refinedgithub" alt="GitHub User's stars" /></a>
-  <a href="https://github.com/zhh2001?tab=followers"><img src="https://img.shields.io/github/followers/zhh2001?style=for-the-badge&logo=refinedgithub" alt="GitHub followers" /></a>
+  <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&style=for-the-badge&color=b860ff&base=2a2a2a" alt="Profile View Counter" /></a>
+  <a href="https://github.com/zhh2001?tab=stars"><img src="https://img.shields.io/github/stars/zhh2001?style=for-the-badge&logo=refinedgithub&color=b860ff&labelColor=2a2a2a" alt="GitHub User's stars" /></a>
+  <a href="https://github.com/zhh2001?tab=followers"><img src="https://img.shields.io/github/followers/zhh2001?style=for-the-badge&logo=refinedgithub&color=b860ff&labelColor=2a2a2a" alt="GitHub followers" /></a>
 </p>
 
 <p align="center"><em>Full-Stack Developer &amp; SDN Researcher</em></p>
@@ -32,8 +32,8 @@
   <a href="https://github.com/zhh2001"><img align="middle" width="277" src="./profile/top-langs.svg" alt="Top Langs" /></a>
 </div>
 
-<a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=-1" alt="Trophy" /></a>
-<!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=algolia&rank=-?&no-bg=true&column=-1&margin-w=5" alt="Trophy" /></a> -->
+<a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=-1&margin-w=4" alt="Trophy" /></a>
+<!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=-1&margin-w=4" alt="Trophy" /></a> -->
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhh2001&theme=github_dark)  

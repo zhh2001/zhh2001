@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true
+          options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true&title_color=b860ff&icon_color=b860ff&text_color=606770
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=transparent&hide=html,css,scss,typescript,tex&layout=compact&size_weight=0.9&count_weight=0.1
+          options: username=${{ github.repository_owner }}&theme=transparent&hide=html,css,scss,typescript,tex&layout=compact&size_weight=0.9&count_weight=0.1&title_color=b860ff&text_color=606770
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
