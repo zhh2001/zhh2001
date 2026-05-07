@@ -51,8 +51,8 @@
 ### Repository Stats
 
 <div>
-  <a href="https://github.com/zhh2001"><img align="middle" width="403" src="./profile/stats.svg" alt="GitHub Stats" /></a>
-  <a href="https://github.com/zhh2001"><img align="middle" width="277" src="./profile/top-langs.svg" alt="Top Langs" /></a>
+  <a href="https://github.com/zhh2001"><img align="top" width="403" src="./profile/stats.svg" alt="GitHub Stats" /></a>
+  <a href="https://github.com/zhh2001"><img align="top" width="277" src="./profile/top-langs.svg" alt="Top Langs" /></a>
 </div>
 
 <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a>
