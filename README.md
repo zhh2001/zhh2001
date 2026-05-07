@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="right"><strong>Docs &amp; Authoring</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=latex,overleaf,vitepress" alt="docs-authoring" /></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=latex,overleaf,vitepress" alt="docs-authoring" /></a></td>
   </tr>
 </table>
 
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=7&margin-w=4" alt="Trophy" /></a>
-  <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a> -->
+  <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=7&margin-w=4" alt="Trophy" /></a> -->
 </p>
 
 <p align="center">
