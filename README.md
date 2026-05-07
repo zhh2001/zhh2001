@@ -65,10 +65,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhh2001&bg_color=00000000&color=b860ff&line=b860ff&point=b860ff&area=true&hide_border=true" alt="Henghua Zhang's contribution activity graph" />
-</p>
-
 <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a>
 <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=8&margin-w=4" alt="Trophy" /></a> -->
 
