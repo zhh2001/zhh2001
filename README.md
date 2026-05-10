@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td align="right"><strong>Databases</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb" alt="databases" /></a></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb,postgresql" alt="databases" /></a></td>
   </tr>
   <tr>
     <td align="right"><strong>DevOps &amp; Infra</strong></td>
