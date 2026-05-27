@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="right"><strong>Backend &amp; RPC</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=gin,grpc,flask" alt="backend-rpc" /></a></td>
+    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=gin,django,flask,grpc" alt="backend-rpc" /></a></td>
   </tr>
   <tr>
     <td align="right"><strong>Databases</strong></td>
