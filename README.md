@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm Henghua Zhang 👋</h1>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&color=b860ff" alt="Profile View Counter" /></a>
-</p>
 
-<p align="center"><em>Full-Stack Developer &amp; SDN Researcher</em></p>
-
-<p align="center">For more about me, visit <a href="https://zhh2001.github.io">zhh2001.github.io</a></p>
+  <em>Full-Stack Developer &amp; SDN Researcher</em>  
+  For more about me, visit <a href="https://zhh2001.github.io">zhh2001.github.io</a>
+</div>
 
 <h2 align="center">Skills</h2>
 
