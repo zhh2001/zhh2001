@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,55:7C3AED,100:06B6D4&text=Henghua%20Zhang&fontAlign=50&fontAlignY=24&fontColor=FFFFFF&fontSize=50&desc=SDN%20Researcher&descAlign=50&descAlignY=50&animation=twinkling" alt="Henghua%20Zhang" />
 
-<a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&color=b860ff" alt="Profile View Counter" /></a>  
+<a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&color=b860ff" alt="Profile View Counter" /></a>
+<a href="https://github.com/zhh2001"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/zhh2001"></a>  
 For more about me, visit [zhh2001.github.io](https://zhh2001.github.io)
 
 </div>
