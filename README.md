@@ -53,8 +53,6 @@ For more about me, visit [zhh2001.github.io](https://zhh2001.github.io)
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/zhh2001"><img src="https://trophygh.kolioaris.xyz/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=4&margin-w=4" alt="Trophy" /></a>
-  <!-- <a href="https://github.com/zhh2001"><img src="https://github-profile-trophy.vercel.app/?username=zhh2001&theme=radical&rank=-?&no-bg=true&column=7&margin-w=4" alt="Trophy" /></a> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
     <img src="./profile/snake.svg" alt="Henghua Zhang's contribution snake animation" />
