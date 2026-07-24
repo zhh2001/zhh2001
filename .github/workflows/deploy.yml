@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true&title_color=b860ff&icon_color=b860ff&text_color=1f2328
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=437&line_height=30&show_icons=true&include_all_commits=true&title_color=b860ff&icon_color=b860ff&text_color=c9d1d9
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=transparent&hide=html,css,scss,typescript,tex&layout=compact&size_weight=0.9&count_weight=0.1&title_color=b860ff&text_color=1f2328
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=transparent&hide=html,css,scss,typescript,tex&layout=compact&size_weight=0.9&count_weight=0.1&title_color=b860ff&text_color=c9d1d9
