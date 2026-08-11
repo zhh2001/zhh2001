@@ -45,7 +45,7 @@
   <a href="https://github.com/zhh2001">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-      <img align="top" width="465" src="./profile/stats.svg" alt="GitHub Stats" />
+      <img align="top" width="418" src="./profile/stats.svg" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/zhh2001">
