@@ -1,15 +1,15 @@
 
       <svg
-        width="437"
+        width="465"
         height="165"
-        viewBox="0 0 437 165"
+        viewBox="0 0 465 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Henghua Zhang&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 543, Total Commits  : 1894, Total Issues: 75</desc>
+        <desc id="descId">Total Stars Earned: 543, Total Commits  : 1898, Total Issues: 75</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.45787661773217;
+        stroke-dashoffset: 88.4266718230789;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="436"
+          width="464"
           fill="#ffffff00"
           stroke-opacity="1"
         />
@@ -137,7 +137,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(367, 32.5)">
+          transform="translate(388.5, 32.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
