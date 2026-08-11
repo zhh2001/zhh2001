@@ -6,7 +6,7 @@
   <!-- <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&color=b860ff" alt="Profile View Counter" /></a>
   <a href="https://github.com/zhh2001?tab=repositories&sort=stargazers"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/zhh2001"></a>  -->
   <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&color=b860ff&style=for-the-badge" alt="Profile View Counter" /></a>
-  ![GitHub User's stars](https://img.shields.io/github/stars/zhh2001?style=for-the-badge&label=Stars&labelColor=555&color=b860ff&link=https%3A%2F%2Fgithub.com%2Fzhh2001%3Ftab%3Drepositories%26sort%3Dstargazers)  
+  <a href="https://github.com/zhh2001?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/zhh2001?style=for-the-badge&label=Stars&labelColor=555&color=b860ff&link=https%3A%2F%2Fgithub.com%2Fzhh2001%3Ftab%3Drepositories%26sort%3Dstargazers" alt="GitHub User's stars" /></a>  
   For more about me, visit [zhh2001.github.io](https://zhh2001.github.io)
 </div>
 
