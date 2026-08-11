@@ -31,7 +31,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs,prs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=465&line_height=30&show_icons=true&include_all_commits=true&title_color=b860ff&icon_color=b860ff&text_color=c9d1d9
+          options: username=${{ github.repository_owner }}&theme=transparent&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=465&line_height=30&show_icons=true&include_all_commits=true&title_color=b860ff&icon_color=b860ff&text_color=c9d1d9
           path: profile/stats-dark.svg
           token: ${{ secrets.PAT_FOR_STAT }}
 
