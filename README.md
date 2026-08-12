@@ -60,5 +60,5 @@
     <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
     <img src="./profile/snake.svg" alt="Henghua Zhang's contribution snake animation" />
   </picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06B6D4,45:7C3AED,100:0F172A&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=118&color=0:06B6D4,45:7C3AED,100:0F172A&section=footer" alt="footer" />
 </div>
