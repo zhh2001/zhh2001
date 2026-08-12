@@ -51,7 +51,7 @@
   <a href="https://github.com/zhh2001">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-      <img align="top" width="295" src="./profile/top-langs.svg" alt="Top Langs" />
+      <img align="top" width="308" src="./profile/top-langs.svg" alt="Top Langs" />
     </picture>
   </a>
 </div>
