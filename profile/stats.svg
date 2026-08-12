@@ -1,15 +1,15 @@
 
       <svg
-        width="465"
+        width="418"
         height="195"
-        viewBox="0 0 465 195"
+        viewBox="0 0 418 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Henghua Zhang&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 543, Total Commits  : 1900, Total PRs: 30, Total Issues: 75</desc>
+        <desc id="descId">Total Stars Earned: 551, Total Commits  : 1902, Total PRs: 30, Total Issues: 75</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.4111018400561;
+        stroke-dashoffset: 88.30152710841361;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="464"
+          width="417"
           fill="#ffffff00"
           stroke-opacity="1"
         />
@@ -137,7 +137,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(388.5, 47.5)">
+          transform="translate(357.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -162,7 +162,7 @@
         x="174.01"
         y="12.5"
         data-testid="stars"
-      >543</text>
+      >551</text>
     </g>
   </g><g transform="translate(0, 30)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
