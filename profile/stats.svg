@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Henghua Zhang&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 758, Total Commits  : 2205, Total PRs: 30, Total Issues: 76</desc>
+        <desc id="descId">Total Stars Earned: 760, Total Commits  : 2211, Total PRs: 30, Total Issues: 76</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.44889724660788;
+        stroke-dashoffset: 84.39839254015885;
       }
     }
   
@@ -169,7 +169,7 @@
         x="174.01"
         y="12.5"
         data-testid="stars"
-      >758</text>
+      >760</text>
     </g>
   </g><g transform="translate(0, 30)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
