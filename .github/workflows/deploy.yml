@@ -12,15 +12,16 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     permissions:
       contents: write
-    
+
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
 
       - name: Generate stats card (light)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=400&line_height=30&show_icons=true&include_all_commits=true&title_color=b860ff&icon_color=b860ff&text_color=1f2328
@@ -28,7 +29,7 @@ jobs:
           token: ${{ secrets.PAT_FOR_STAT }}
 
       - name: Generate stats card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=transparent&hide=contribs&custom_title=Henghua%20Zhang's%20GitHub%20Stats&card_width=400&line_height=30&show_icons=true&include_all_commits=true&title_color=b860ff&icon_color=b860ff&text_color=c9d1d9
@@ -37,7 +38,7 @@ jobs:
 
       # Score = bytes^0.3 * repositories^0.7; reduce the influence of large codebases.
       - name: Generate top languages card (light)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=transparent&hide=typescript,html,css,scss,tex&layout=compact&size_weight=0.3&count_weight=0.7&title_color=b860ff&text_color=1f2328&langs_count=8
@@ -45,7 +46,7 @@ jobs:
           token: ${{ secrets.PAT_FOR_STAT }}
 
       - name: Generate top languages card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=transparent&hide=typescript,html,css,scss,tex&layout=compact&size_weight=0.3&count_weight=0.7&title_color=b860ff&text_color=c9d1d9&langs_count=8
@@ -53,7 +54,7 @@ jobs:
           token: ${{ secrets.PAT_FOR_STAT }}
 
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -64,7 +65,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add -- profile/stats.svg profile/stats-dark.svg profile/top-langs.svg profile/top-langs-dark.svg profile/snake.svg profile/snake-dark.svg
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0

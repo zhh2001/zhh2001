@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="144" viewBox="0 0 880 144" role="img" aria-labelledby="title description">
+  <title id="title">Henghua Zhang</title>
+  <desc id="description">Software-defined networking, P4, and Go/Python development.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="880" y2="144" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a" />
+      <stop offset="0.55" stop-color="#7c3aed" />
+      <stop offset="1" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#background)" d="M0 0H880V114C660 72 220 172 0 124Z" />
+  <g fill="#fff" text-anchor="middle" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="440" y="61" font-size="46" font-weight="700">Henghua Zhang</text>
+    <text x="440" y="94" font-size="20" fill="#e2e8f0">SDN · P4 · Go / Python</text>
+  </g>
+</svg>

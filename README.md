@@ -1,45 +1,27 @@
-<div align="center">
-  <a href="https://github.com/zhh2001">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,55:7C3AED,100:06B6D4&text=Henghua%20Zhang&fontAlign=50&fontAlignY=24&fontColor=FFFFFF&fontSize=50&desc=SDN%20Researcher&descAlign=50&descAlignY=50&animation=twinkling" alt="Henghua%20Zhang" />
-  </a>
+<p align="center">
+  <img src="./profile/header.svg" width="880" alt="Henghua Zhang: SDN, P4, Go and Python" />
+</p>
 
-  <!-- <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&abbreviated=true&color=b860ff" alt="Profile View Counter" /></a>
-  <a href="https://github.com/zhh2001?tab=repositories&sort=stargazers"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/zhh2001"></a>  -->
-  <a href="https://github.com/zhh2001"><img src="https://komarev.com/ghpvc/?username=zhh2001&color=b860ff&style=for-the-badge" alt="Profile View Counter" /></a>
-  <a href="https://github.com/zhh2001?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/zhh2001?style=for-the-badge&label=Stars&labelColor=555&color=b860ff&link=https%3A%2F%2Fgithub.com%2Fzhh2001%3Ftab%3Drepositories%26sort%3Dstargazers" alt="GitHub User's stars" /></a>  
-  For more about me, visit [zhh2001.github.io](https://zhh2001.github.io)
-</div>
+I'm a master's student at Shanghai University of Engineering Science. My research focuses on software-defined networking, programmable data planes, and in-band network telemetry.
 
-<h2 align="center">Skills</h2>
+I also build networking tools and developer utilities in Go and Python.
 
-<table align="center">
-  <tr>
-    <td align="right"><strong>Languages</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,js,p4" alt="languages" /></a></td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Frontend &amp; UI</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=vue,html,css,qt" alt="frontend-ui" /></a></td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Backend &amp; RPC</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=gin,django,flask,grpc" alt="backend-rpc" /></a></td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Databases</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb,postgresql" alt="databases" /></a></td>
-  </tr>
-  <tr>
-    <td align="right"><strong>DevOps &amp; Infra</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,k8s,jenkins,grafana" alt="devops-infra" /></a></td>
-  </tr>
-  <tr>
-    <td align="right"><strong>Docs &amp; Authoring</strong></td>
-    <td><a href="https://github.com/zhh2001"><img src="https://go-skill-icons.vercel.app/api/icons?i=latex,overleaf,vitepress" alt="docs-authoring" /></a></td>
-  </tr>
-</table>
+[Website](https://zhh2001.github.io/) · [CV](https://zhh2001.github.io/resume) · [Google Scholar](https://scholar.google.com/citations?user=nCPBFuMAAAAJ) · [Email](mailto:1652709417@qq.com)
 
-<h2 align="center">Repository Stats</h2>
+## Selected Projects
+
+- **[p4runtime-go-controller](https://github.com/zhh2001/p4runtime-go-controller)**: A Go SDK and `p4ctl` CLI for building P4Runtime controllers. [Docs](https://zhh2001.github.io/p4runtime-go-controller/)
+- **[p4net](https://github.com/zhh2001/p4net)**: A Python framework for P4 network emulation with BMv2, P4Runtime, declarative topologies, and an interactive CLI. [Docs](https://zhh2001.github.io/p4net/)
+- **[rote](https://github.com/zhh2001/rote)**: A job scheduler written in Go, with persistent run history, captured output, and a terminal dashboard.
+- **[p4-protocol-headers](https://github.com/zhh2001/p4-protocol-headers)**: Reusable P4 header definitions for common network protocols.
+
+## Core Technologies
+
+- **Languages:** Go, Python, P4
+- **Networking & systems:** BMv2, Mininet, P4Runtime, Linux, Docker
+- **Backend:** Gin, gRPC, MySQL, Redis, SQLite
+
+## GitHub Activity
 
 <div align="center">
   <a href="https://github.com/zhh2001">
@@ -55,10 +37,10 @@
     </picture>
   </a>
 </div>
-<div align="center">
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <img src="./profile/snake.svg" alt="Henghua Zhang's contribution snake animation" />
+    <img src="./profile/snake.svg" width="880" alt="Henghua Zhang's contribution snake animation" />
   </picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=118&color=0:06B6D4,45:7C3AED,100:0F172A&section=footer" alt="footer" />
-</div>
+</p>
