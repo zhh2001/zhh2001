@@ -1,27 +1,44 @@
 <p align="center">
-  <img src="./profile/header.svg" width="880" alt="Henghua Zhang: SDN, P4, Go and Python" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./profile/header-mobile.svg" />
+    <img src="./profile/header.svg" width="960" alt="Henghua Zhang (@zhh2001): programmable networks, SDN, P4, telemetry, and tools in Go and Python" />
+  </picture>
 </p>
 
-I'm a master's student at Shanghai University of Engineering Science. My research focuses on software-defined networking, programmable data planes, and in-band network telemetry.
+<p align="center">
+  <a href="https://zhh2001.github.io/"><kbd>~/notes</kbd></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=nCPBFuMAAAAJ"><kbd>~/research</kbd></a>&nbsp;
+  <a href="https://zhh2001.github.io/resume"><kbd>~/about</kbd></a>&nbsp;
+  <a href="mailto:1652709417@qq.com"><kbd>@email</kbd></a>
+</p>
 
-I also build networking tools and developer utilities in Go and Python.
+I work on programmable networks and in-band telemetry, and build tools in Go and Python.
 
-[Website](https://zhh2001.github.io/) · [CV](https://zhh2001.github.io/resume) · [Google Scholar](https://scholar.google.com/citations?user=nCPBFuMAAAAJ) · [Email](mailto:1652709417@qq.com)
+## `01` / Programmable networks
 
-## Selected Projects
-
-- **[p4runtime-go-controller](https://github.com/zhh2001/p4runtime-go-controller)**: A Go SDK and `p4ctl` CLI for building P4Runtime controllers. [Docs](https://zhh2001.github.io/p4runtime-go-controller/)
-- **[p4net](https://github.com/zhh2001/p4net)**: A Python framework for P4 network emulation with BMv2, P4Runtime, declarative topologies, and an interactive CLI. [Docs](https://zhh2001.github.io/p4net/)
-- **[rote](https://github.com/zhh2001/rote)**: A job scheduler written in Go, with persistent run history, captured output, and a terminal dashboard.
+- **[p4net](https://github.com/zhh2001/p4net)**: Build P4 network experiments with BMv2, declarative topologies, and an interactive Python CLI. [Docs](https://zhh2001.github.io/p4net/)
 - **[p4-protocol-headers](https://github.com/zhh2001/p4-protocol-headers)**: Reusable P4 header definitions for common network protocols.
+- **[p4runtime-go-controller](https://github.com/zhh2001/p4runtime-go-controller)**: A Go SDK and `p4ctl` CLI for building P4Runtime controllers. [Docs](https://zhh2001.github.io/p4runtime-go-controller/)
 
-## Core Technologies
+## `02` / Developer tools
 
-- **Languages:** Go, Python, P4
-- **Networking & systems:** BMv2, Mininet, P4Runtime, Linux, Docker
-- **Backend:** Gin, gRPC, MySQL, Redis, SQLite
+- **[rote](https://github.com/zhh2001/rote)**: A job scheduler written in Go, with persistent run history, captured output, and a terminal dashboard.
 
-## GitHub Activity
+<details>
+<summary><code>stack.yml</code> · Languages &amp; tools</summary>
+
+```yaml
+languages: [Go, Python, P4]
+network: [P4Runtime, BMv2, Mininet]
+platform: [Linux, Docker]
+backend: [Gin, gRPC]
+storage: [MySQL, Redis, SQLite]
+```
+
+</details>
+
+<details>
+<summary><code>activity.log</code> · GitHub statistics</summary>
 
 <div align="center">
   <a href="https://github.com/zhh2001">
@@ -37,6 +54,8 @@ I also build networking tools and developer utilities in Go and Python.
     </picture>
   </a>
 </div>
+
+</details>
 
 <p align="center">
   <picture>
