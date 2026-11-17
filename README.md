@@ -24,21 +24,16 @@ I work on programmable networks and in-band telemetry, and build tools in Go and
 
 - **[rote](https://github.com/zhh2001/rote)**: A job scheduler written in Go, with persistent run history, captured output, and a terminal dashboard.
 
-<details>
-<summary><code>stack.yml</code> · Languages &amp; tools</summary>
+## `03` / Stack
 
-```yaml
-languages: [Go, Python, P4]
-network: [P4Runtime, BMv2, Mininet]
-platform: [Linux, Docker]
-backend: [Gin, gRPC]
-storage: [MySQL, Redis, SQLite]
-```
+<p>
+  <strong>Languages</strong> · Go · Python · P4<br />
+  <strong>Networking</strong> · P4Runtime · BMv2 · Mininet<br />
+  <strong>Platform</strong> · Linux · Docker<br />
+  <strong>Backend</strong> · Gin · gRPC · MySQL · Redis · SQLite
+</p>
 
-</details>
-
-<details>
-<summary><code>activity.log</code> · GitHub statistics</summary>
+## `04` / GitHub activity
 
 <div align="center">
   <a href="https://github.com/zhh2001">
@@ -54,8 +49,6 @@ storage: [MySQL, Redis, SQLite]
     </picture>
   </a>
 </div>
-
-</details>
 
 <p align="center">
   <picture>
