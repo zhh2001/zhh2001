@@ -1,38 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="456" viewBox="0 0 640 456" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="396" viewBox="0 0 640 396" role="img" aria-labelledby="title description">
   <title id="title">Henghua Zhang · zhh2001</title>
-  <desc id="description">Programmable networks, SDN, P4, in-band telemetry, and Go/Python tools, shown as a terminal with an animated controller, P4 switch, and two hosts.</desc>
+  <desc id="description">SDN, P4, and in-band network telemetry. A P4Runtime controller configures a BMv2 switch, with packets flowing between two hosts.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="640" y2="456" gradientUnits="userSpaceOnUse">
+    <linearGradient id="background" x2="1" y2="1">
       <stop stop-color="#080e19" />
       <stop offset="1" stop-color="#10182c" />
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent">
       <stop stop-color="#22d3ee" />
       <stop offset="1" stop-color="#a78bfa" />
     </linearGradient>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M24 0H0V24" fill="none" stroke="#94a3b8" stroke-opacity="0.06" />
     </pattern>
-    <clipPath id="window"><rect x="1" y="1" width="638" height="454" rx="16" /></clipPath>
+    <clipPath id="window"><rect x="1" y="1" width="638" height="394" rx="14" /></clipPath>
   </defs>
   <style>
-    .packet { stroke-dasharray: 10 18; animation: flow 2.8s linear infinite; }
-    .control { stroke-dasharray: 6 10; animation: flow 3.6s linear infinite reverse; }
-    .beacon { transform-box: fill-box; transform-origin: center; animation: pulse 3s ease-in-out infinite; }
-    .cursor { animation: blink 1.2s steps(2, end) infinite; }
+    .packet { stroke-dasharray: 10 18; animation: flow 3.2s linear infinite; }
     @keyframes flow { to { stroke-dashoffset: -112; } }
-    @keyframes pulse { 50% { opacity: 0.25; transform: scale(1.12); } }
-    @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .packet, .control, .beacon, .cursor { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .packet { animation: none; } }
   </style>
   <g clip-path="url(#window)">
-    <rect width="640" height="456" fill="url(#background)" />
-    <rect y="42" width="640" height="414" fill="url(#grid)" />
+    <rect width="640" height="396" fill="url(#background)" />
+    <rect y="42" width="640" height="354" fill="url(#grid)" />
     <rect width="640" height="42" fill="#131c2c" />
     <path d="M0 42H640" stroke="#26334a" />
-    <path d="M0 454H640" stroke="url(#accent)" stroke-width="3" />
+    <path d="M0 394H640" stroke="url(#accent)" stroke-width="2" />
   </g>
-  <rect x="1" y="1" width="638" height="454" rx="16" fill="none" stroke="#27354d" />
+  <rect x="1" y="1" width="638" height="394" rx="14" fill="none" stroke="#27354d" />
   <circle cx="24" cy="21" r="5" fill="#fb7185" />
   <circle cx="42" cy="21" r="5" fill="#fbbf24" />
   <circle cx="60" cy="21" r="5" fill="#4ade80" />
@@ -41,25 +36,20 @@
     <text x="32" y="83" font-size="15" letter-spacing="1.5" fill="#22d3ee">SDN / P4</text>
     <text x="30" y="139" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#f1f5f9">Henghua Zhang</text>
     <text x="32" y="174" font-size="22" fill="#a5b4cf">In-band network telemetry</text>
-    <text x="32" y="213" font-size="20" fill="#4ade80">&gt; Go · Python · Linux</text>
-    <rect class="cursor" x="304" y="197" width="10" height="19" fill="#4ade80" />
 
-    <path d="M320 306V358" fill="none" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="3" />
-    <path class="control" d="M320 306V358" fill="none" stroke="#a78bfa" stroke-width="3" />
-    <text x="338" y="341" font-size="18" fill="#a78bfa">P4Runtime</text>
-    <path d="M160 389H244M396 389H480" fill="none" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="3" />
-    <path class="packet" d="M160 389H244M396 389H480" fill="none" stroke="#22d3ee" stroke-width="3" />
-    <circle class="beacon" cx="320" cy="389" r="51" fill="none" stroke="#22d3ee" stroke-opacity="0.3" />
-    <rect x="198" y="246" width="244" height="60" rx="10" fill="#19172c" stroke="#7660b0" />
-    <circle cx="218" cy="264" r="4" fill="#a78bfa" />
-    <text x="320" y="274" text-anchor="middle" font-size="22" font-weight="700" fill="#ddd6fe">CONTROLLER</text>
-    <text x="320" y="295" text-anchor="middle" font-size="16" fill="#a78bfa">Go / P4Runtime</text>
-    <rect x="244" y="358" width="152" height="64" rx="10" fill="#0b2030" stroke="#22d3ee" stroke-width="1.5" />
-    <text x="320" y="386" text-anchor="middle" font-size="21" font-weight="700" fill="#a5f3fc">P4 SWITCH</text>
-    <text x="320" y="409" text-anchor="middle" font-size="18" fill="#67b8cc">BMv2</text>
-    <rect x="32" y="364" width="128" height="50" rx="9" fill="#0e1b23" stroke="#365363" />
-    <text x="96" y="395" text-anchor="middle" font-size="20" fill="#b9d5de">HOST A</text>
-    <rect x="480" y="364" width="128" height="50" rx="9" fill="#0e1b23" stroke="#365363" />
-    <text x="544" y="395" text-anchor="middle" font-size="20" fill="#b9d5de">HOST B</text>
+    <path d="M320 260V302" fill="none" stroke="#a78bfa" stroke-width="3" stroke-dasharray="6 10" />
+    <text x="338" y="287" font-size="18" fill="#c4b5fd">P4Runtime</text>
+    <path d="M160 334H244M396 334H480" fill="none" stroke="#22d3ee" stroke-opacity="0.25" stroke-width="3" />
+    <path class="packet" d="M160 334H244M396 334H480" fill="none" stroke="#22d3ee" stroke-width="3" />
+
+    <rect x="208" y="206" width="224" height="54" rx="9" fill="#19172c" stroke="#7660b0" />
+    <text x="320" y="240" text-anchor="middle" font-size="22" font-weight="700" fill="#ddd6fe">CONTROLLER</text>
+    <rect x="244" y="302" width="152" height="64" rx="9" fill="#0b2030" stroke="#22d3ee" stroke-width="1.5" />
+    <text x="320" y="330" text-anchor="middle" font-size="21" font-weight="700" fill="#a5f3fc">P4 SWITCH</text>
+    <text x="320" y="353" text-anchor="middle" font-size="18" fill="#8dc6d5">BMv2</text>
+    <rect x="32" y="309" width="128" height="50" rx="8" fill="#0e1b23" stroke="#365363" />
+    <text x="96" y="340" text-anchor="middle" font-size="20" fill="#b9d5de">HOST A</text>
+    <rect x="480" y="309" width="128" height="50" rx="8" fill="#0e1b23" stroke="#365363" />
+    <text x="544" y="340" text-anchor="middle" font-size="20" fill="#b9d5de">HOST B</text>
   </g>
 </svg>

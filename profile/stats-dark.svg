@@ -8,12 +8,12 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Henghua Zhang&#39;s GitHub Stats, Rank: A-</title>
+        <title id="titleId">GitHub activity, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 702, Total Commits  : 2698, Total PRs: 30, Total Issues: 76</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #b860ff;
+            fill: #67e8f9;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #b860ff;
+      fill: #67e8f9;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #b860ff;
+      stroke: #67e8f9;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #b860ff;
+      stroke: #67e8f9;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -114,9 +114,9 @@
           class="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="8"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#303d51"
           width="399"
           fill="#ffffff00"
           stroke-opacity="1"
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Henghua Zhang&#39;s GitHub Stats</text>
+      >GitHub activity</text>
     </g>
       </g>
     
