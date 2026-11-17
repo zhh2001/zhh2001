@@ -12,16 +12,7 @@
   <a href="mailto:1652709417@qq.com">Email</a>
 </p>
 
-I build networking tools and developer utilities in Go and Python.
-
-## `01` / Selected projects
-
-- **[p4net](https://github.com/zhh2001/p4net)**: P4 network experiments with BMv2, Python topologies, and an interactive CLI. [Docs](https://zhh2001.github.io/p4net/)
-- **[p4runtime-go-controller](https://github.com/zhh2001/p4runtime-go-controller)**: A Go SDK and `p4ctl` CLI for building P4Runtime controllers. [Docs](https://zhh2001.github.io/p4runtime-go-controller/)
-- **[rote](https://github.com/zhh2001/rote)**: A Go job scheduler with persistent run history, captured output, and a terminal dashboard.
-- **[p4-protocol-headers](https://github.com/zhh2001/p4-protocol-headers)**: Reusable P4 header definitions for common network protocols.
-
-## `02` / Tech stack
+## `01` / Tech stack
 
 **Network lab** · P4Runtime · BMv2 · Mininet
 
@@ -34,7 +25,7 @@ I build networking tools and developer utilities in Go and Python.
   <img src="./profile/stack/docs.svg" width="400" alt="Writing &amp; docs: LaTeX, Overleaf, VitePress" title="LaTeX, Overleaf, VitePress" />
 </p>
 
-## `03` / GitHub activity
+## `02` / GitHub activity
 
 <p align="center">
   <a href="https://github.com/zhh2001?tab=repositories">
