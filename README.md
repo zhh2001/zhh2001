@@ -14,7 +14,7 @@
 
 ## `01` / Tech stack
 
-**Network lab** · P4Runtime · BMv2 · Mininet
+P4Runtime | BMv2 | Mininet
 
 <p>
   <img src="./profile/stack/languages.svg" width="400" alt="Languages: Go, Python, P4, C, C++, JavaScript" title="Go, Python, P4, C, C++, JavaScript" />
