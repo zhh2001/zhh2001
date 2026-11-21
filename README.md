@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./profile/header-mobile.svg" />
-    <img src="./profile/header.svg" width="960" alt="Henghua Zhang (@zhh2001): SDN, P4, and in-band network telemetry" />
-  </picture>
-</p>
+<h1 align="center">Henghua Zhang</h1>
 
 <p align="center">
   <a href="https://zhh2001.github.io/">Website</a> ·
